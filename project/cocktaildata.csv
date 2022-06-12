@@ -1,0 +1,32 @@
+﻿name,amaretto,campari,cointreau,gin,kahlua,rum,scotch whisky,sweet vermouth,tequila,vodka,glass,method,garnish,ingredients
+Black Russian,0,0,0,0,20,0,0,0,0,50,rocks,build,-,vodka - 50ml kahlua - 20ml
+White Russian,0,0,0,0,15,0,0,0,0,45,rocks,build,-,vodka - 45ml kahula - 15ml milk - 30ml
+Godfather,25,0,0,0,0,0,50,0,0,0,rocks,build,-,scotch whisky - 50ml amaretto - 25ml
+Godmother,25,0,0,0,0,0,0,0,0,50,rocks,build,-,vodka - 50ml amaretto - 25ml
+Negroni,0,30,0,30,0,0,0,30,0,0,rocks,stir,orange peel,gin - 30ml campari - 30ml sweet vermouth - 30ml 
+Americano,0,30,0,0,0,0,0,30,0,0,rocks,build,lemon peel,campari - 30ml sweet vermouth - 30ml sparkling water - Full Up
+Long Island Iced Tea,0,0,15,15,0,15,0,0,15,15,highball,build,-,gin - 15 ml vodka - 15 ml rum - 15 ml  tequila - 15 ml cointreau - 15 ml fresh lemon juice - 30 ml simple syrup - 20 ml coke - Full Up
+Whisky Soda,0,0,0,0,0,0,45,0,0,0,highball,build,-,scotch whisky - 45ml sparkling water - Full up
+Gin Tonic,0,0,0,45,0,0,0,0,0,0,highball,build,-,gin - 45ml tonic water - Full up
+Gimlet,0,0,0,45,0,0,0,0,0,0,martini,shake,-,gin - 45ml fresh lime juice - 15ml sugar - 1tsp
+Moscow Mule,0,0,0,0,0,0,0,0,0,45,highball,build,lime slice,vodka - 45ml fresh lime juice - 10ml ginger beer - 120ml
+Gin Fizz,0,0,0,45,0,0,0,0,0,0,highball,shake,lemon slice,gin - 45ml fresh lemon juice - 30ml simple syrup - 10ml sparkling water - Full Up
+Gin Rickey,0,0,0,60,0,0,0,0,0,0,highball,build,lime wheel,gin - 60ml lime - 1/2each sparkling water - Full Up
+Cuba Libre,0,0,0,0,0,50,0,0,0,0,highball,build,lime wedge,rum - 50ml fresh lime juice - 10ml coke - 120ml
+Cosmopolitan,0,0,15,0,0,0,0,0,0,40,martini,shake,lemon peel,vodka - 40ml cointreau - 15ml lime juice - 15ml cranberry juice - 30ml
+Margarita,0,0,20,0,0,0,0,0,50,0,martini,shake,salt rimming,tequila - 50ml cointreau - 20ml lime - 1/2each
+Daiquiri,0,0,0,0,0,60,0,0,0,0,martini,shake,lime slice,rum - 60ml fresh lime juice - 20ml sugar - 2tsp
+XYZ,0,0,15,0,0,30,0,0,0,0,martini,build,-,rum - 30ml cointreau - 15ml fresh lemon juice - 15ml
+Spumoni,0,22.5,0,0,0,0,0,0,0,0,highball,build,-,campari - 22.5ml grapefruit juice - 30ml tonic water - Full Up
+Screwdriver,0,0,0,0,0,0,0,0,0,45,highball,build,-,vodka - 45ml orange juice - Full Up
+Colorado Bulldog,0,0,0,0,20,0,0,0,0,20,rocks,build,-,vodka - 20ml kahlua - 20ml milk - 20ml coke - 20ml
+Seabreeze,0,0,0,0,0,0,0,0,0,40,highball,build,-,vodka - 40ml cranberry juice - 120ml grapefruit juice - 30ml
+Whisky Sour,0,0,0,0,0,0,45,0,0,0,rocks,shake,lemon slice with cherry,scotch whisky - 45ml fresh lemon juice - 25ml simple syrup - 20ml egg white - 1each
+Tequila Sour,0,0,0,0,0,0,0,0,60,0,wine,shake,lemon slice with cherry,tequila - 60ml fresh lemon juice - 15ml sugar - 1tsp
+Paloma,0,0,0,0,0,0,0,0,50,0,highball,build,lime wedge,tequila - 50ml fresh lime juice - 5ml salt - 1pinch grapefruit juice - 100ml
+Salty Dog,0,0,0,0,0,0,0,0,0,45,highball,build,salt rimming,vodka - 45ml grapefruit juice - Full up
+Kamikaze,0,0,15,0,0,0,0,0,0,30,martini,shake,-,vodka - 30ml cointreau - 15ml fresh lime juice - 15ml
+White Lady,0,0,15,30,0,0,0,0,0,0,martini,shake,-,gin - 30ml cointreau - 15ml fresh lime juice - 15ml 
+Whisky Cooler,0,0,0,0,0,0,45,0,0,0,highball,build,-,scotch whisky - 45ml ginger ale - Full Up
+Tequila Slammer,0,0,0,0,0,0,0,0,30,0,shot,build,-,tequila - 30ml sparkling water - 30ml 
+Kahlua Milk,0,0,0,0,30,0,0,0,0,0,rocks,build,-,kahlua - 30ml milk - 90ml 
